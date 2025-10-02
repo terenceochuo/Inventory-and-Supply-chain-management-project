@@ -7,7 +7,7 @@
 - [Tool used](#tool-used)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Data analysis](#data-analysis)
-- [Results/Findings](#results-findings)
+- [Insights](#insights)
 - [Recommendations](#recommendations)
   
 ### Project Overview
@@ -33,7 +33,7 @@ I used the DAX functions in power bi to calculate the following metrics;
   Warehouse Utilization = DIVIDE(SUM(Inventory_SupplyChain_Dataset[Inventory Level]),SUM(Inventory_SupplyChain_Dataset[Warehouse Capacity]))
   ```
   These are some of the few keys KPIs that I visualized using the card.
-### Results/Findings
+### Insights
 From the analysis here are some of the key Insights that I realized;
 - Warehouse Utilization: 34.1%
   - The warehouse is underutilized (capacity used is low compared to available space). This may indicate inefficiency in space management or potential to optimize costs.
