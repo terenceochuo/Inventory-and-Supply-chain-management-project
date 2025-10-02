@@ -13,6 +13,8 @@
 ### Project Overview
 This project demonstrates the application of Power BI in analyzing supply chain efficiency, cost optimization, and inventory performance. By integrating KPIs and interactive visuals, it helps businesses reduce excess stock, optimize lead times, and improve customer satisfaction.
 
+![Dahsboard Preview](https://github.com/terenceochuo/Inventory-and-Supply-chain-management-project/blob/main/Supply%20Chain%20Management%20Dashboard.PNG)
+
 ### Data Source
 Supply chain data:The primary dataset used for this analysis is the "Inventory_SupplyChain_Dataset.csv" file,containing detailed information of inventory held by the company
 ### Tool used
