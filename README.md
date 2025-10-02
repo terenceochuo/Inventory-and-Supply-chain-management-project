@@ -1,4 +1,15 @@
 # Inventory-and-Supply-Chain-Management-Project
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tool used](#tool-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Data analysis](#data-analysis)
+- [Results/Findings](#results-findings)
+- [Recommendations](#recommendations)
+  
 ### Project Overview
 This project demonstrates the application of Power BI in analyzing supply chain efficiency, cost optimization, and inventory performance. By integrating KPIs and interactive visuals, it helps businesses reduce excess stock, optimize lead times, and improve customer satisfaction.
 ### Data Source
@@ -32,5 +43,30 @@ From the analysis here are some of the key Insights that I realized;
     
 - Inventory Turnover Ratio: 23.47
   - This is a very high turnover ratio, meaning inventory is being sold and replaced quickly. Strong sign of demand and efficient inventory management.
+
+- Transportation Cost by Region and Category
+  - Transportation costs are highest in the West region and lowest in the South.
+
+- Units Sold by Year
+  - Sharp growth trend after 2020 (from ~5K units to nearly 200K in 2024).This indicates strong market expansion and demand increase.
+
+- Lead Time (Days) by Category
+  - Accessories (16.6 days) have the longest lead time, while Clothing (15.29 days) has the shortest.Small differences, but reducing lead time could improve responsiveness.
+
+- Backorder by Order Status
+  - 838 fulfilled orders, 248 pending, 114 canceled.Although most orders are fulfilled, the pending and canceled orders highlight potential supply chain bottlenecks or demand-supply mismatches.
+
+- Inventory Level by Category and Region
+  - Clothing and Electronics have the highest inventory levels across most regions.
+
+- Accessories hold relatively lower stock compared to others.Suggests stronger demand or stockpiling strategy for Clothing/Electronics.
+
+### Recommendations
+Here are precise recommendations based on the dashboard findings:
+- Improve Warehouse Utilization – Optimize storage planning or consolidate facilities to reduce underutilization costs.
+- Optimize Transportation Costs – Review routes and supplier contracts, especially in the West region, to cut logistics expenses.
+- Reduce Lead Times – Strengthen supplier relationships and streamline procurement for Accessories and Electronics.
+- Address Backorders – Enhance demand forecasting and inventory planning to reduce pending and canceled orders.
+- Leverage Sales Growth – Align production and inventory strategies with rising demand to sustain growth without stockouts.
 
   
